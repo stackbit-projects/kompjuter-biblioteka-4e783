@@ -10,7 +10,7 @@ sections:
       Već 35 godina slušajući vaše želje objavljujemo knjige koje vam trebaju u
       svakodnevnom radu. 
     actions:
-      - title: See all items
+      - title: ''
         url: /store
         arrow: true
         style: primary
