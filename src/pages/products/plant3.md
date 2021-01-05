@@ -1,7 +1,7 @@
 ---
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: Principi lepog veb dizajna
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/536_Principi_Web_dizajna.jpg
 default_original_image: images/plant3-lg.jpg
